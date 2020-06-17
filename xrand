@@ -1,0 +1,5 @@
+#!/bin/bash
+//monitor
+//xrandr --output eDP1 --left-of DP1 
+//displayoff
+//xrandr --output DP1 --off
